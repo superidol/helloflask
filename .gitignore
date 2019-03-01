@@ -115,3 +115,11 @@ docs/_build/
 # Upload file
 demos/form/uploads/*
 !demos/form/uploads/.gitkeep
+
+# vscode set file
+.vscode/
+
+# pipenv files
+Pipfile
+Pipfile.lock
+
