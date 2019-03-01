@@ -119,7 +119,5 @@ demos/form/uploads/*
 # vscode set file
 .vscode/
 
-# pipenv files
-Pipfile
-Pipfile.lock
+
 
